@@ -1,5 +1,9 @@
 Project Friendship Mentor Community :
 
+Team Project:
+
+Bennet Botz, Kaz M, Ashton A
+
 Project Friendship App Prototype. Mobile Computing Application Final project focused on building community within the Project Friendship non-profit in Northfield, Minnesota.
 
 Project Goal:

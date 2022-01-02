@@ -3,7 +3,8 @@ Project Friendship Mentor Community :
 Project Friendship App Prototype. Mobile Computing Application Final project focused on building community within the Project Friendship non-profit in Northfield, Minnesota.
 
 Project Goal:
-     Build an App Prototype that "Builds Community Amongst Mentors in The Project Friendship Mentor Community" 
+
+Build an App Prototype that "Builds Community Amongst Mentors in The Project Friendship Mentor Community" 
 
 
 install's needed to run:
